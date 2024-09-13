@@ -1,0 +1,11 @@
+file_format: "1"
+id: yorne
+name: Yorne
+type: shield
+url: https://github.com/bdhoel/zmk-config-yorne
+requires: [pro_micro]
+features:
+  - keys
+siblings:
+  - yorne_left
+  - yorne_right
