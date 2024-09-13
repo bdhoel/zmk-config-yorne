@@ -2,7 +2,7 @@
 # SPDX-License-Identifier: MIT
 
 config SHIELD_YORNE_LEFT
-    def_bool $(shields_list_contains,Yorne_left)
+    def_bool $(shields_list_contains,yorne_left)
 
 config SHIELD_YORNE_RIGHT
-    def_bool $(shields_list_contains,Yorne_right)
+    def_bool $(shields_list_contains,yorne_right)

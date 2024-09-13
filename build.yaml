@@ -19,6 +19,6 @@
 ---
 include:
   - board: nice_nano_v2
-    shield: Yorne_left
+    shield: yorne_left
   - board: nice_nano_v2
-    shield: Yorne_right
+    shield: yorne_right
