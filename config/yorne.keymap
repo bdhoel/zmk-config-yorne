@@ -44,8 +44,8 @@
 
                 navigation {
                         bindings = <
-                        &kp DEL         &kp HOME        &kp UP          &kp END         &trans          &trans          &trans          &trans          &trans          &trans          &trans          &kp BSPC
-                        &trans          &kp LEFT        &kp DOWN        &kp RIGHT       &trans          &trans          &trans          &trans          &trans          &trans          &trans          &trans
+                        &kp DEL         &kp HOME        &kp UP          &kp END         &trans          &kp LS(HOME)    &trans          &trans          &trans          &trans          &trans          &kp BSPC
+                        &trans          &kp LEFT        &kp DOWN        &kp RIGHT       &trans          &kp LS(END)     &trans          &trans          &trans          &trans          &trans          &trans
                         &trans          &trans          &trans          &trans          &trans          &trans          &trans          &trans          &trans          &trans          &trans          &trans
                                                                         &trans          &trans          &trans          &kp RET         &trans          &trans
                         >;
